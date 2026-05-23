@@ -5,5 +5,5 @@ whitesur-gtk-vscode.css文件需要搭配vscode插件[Custom CSS and JS Loader](
 
 效果：
 
-![截图](./screentshot/pic.png)
+![截图](./pic.png)
 
